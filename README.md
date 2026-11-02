@@ -211,7 +211,7 @@ Any language that can make an HTTP request. This README shows Python and TypeScr
 - [Kick Scraper API](https://github.com/piloterr/kick-scraper)
 - [Patreon Scraper API](https://github.com/piloterr/patreon-scraper)
 - [TikTok Top Ads Scraper API](https://github.com/piloterr/tiktoktopads-scraper)
-- [weibo-scraper](https://github.com/piloterr/weibo-scraper)
+- [Weibo Scraper API](https://github.com/piloterr/weibo-scraper)
 - [X (Twitter) Scraper API](https://github.com/piloterr/twitter-x-scraper)
 - [All Piloterr scrapers on GitHub](https://github.com/piloterr)
 
